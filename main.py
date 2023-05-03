@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write("Test Application")
+st.write("Test")
